@@ -19,3 +19,7 @@ I added alts to all the images in < div id="homephoto">
 In < div id="socialnetworking"> I updated the classes to say "sociallogo" (for instance "facebooklogo") so that the title and the class were not redundant
 
 I added a footer tag to the copyright
+
+I added a main tag to the content
+
+I added a header tag to the logo and head links
